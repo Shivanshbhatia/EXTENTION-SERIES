@@ -1,0 +1,11 @@
+{
+    "name": "Covid-19 Stats Uk",
+    "version" : "1.0.0",
+    "description" : "Latest covid update",
+    "manifest_version": 3,
+    "author": "Sampurna Chapagain",
+    "action":{
+        "default_popup": "hello.html",
+        "default_title": "Latest Covid Report"
+    }
+}
